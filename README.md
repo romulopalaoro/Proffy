@@ -25,7 +25,7 @@
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/romulopalaoro/proffy
+git clone https://github.com/romulopalaoro/Proffy.git
 
 # Entrar no diretório
 cd proffy

@@ -4,7 +4,7 @@
   <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
 </p>
 <p align="center">
-  <img src="https://github.com/romulopalaoro/Proffy/blob/master/public/images/proffy-1.png?raw=true" width="400">
+  <img src="https://github.com/romulopalaoro/Proffy/blob/master/public/images/proffy-1.png?raw=true" width="800">
 </p>
 
 ## 💻 Projeto
